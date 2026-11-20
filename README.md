@@ -1,128 +1,114 @@
 <div align="center">
 
-<img src="./assets/profile-banner.webp" alt="Xiaoyoumi's anime night-sky coding desk banner" width="100%">
+<img src="https://raw.githubusercontent.com/xiaoyoumi9924/xiaoyoumi9924/main/assets/profile-banner.webp" alt="主页二次元横幅" width="100%">
 
-<br>
+# 你好，我是 xiaoyoumi ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=9ABEFF&center=true&vCenter=true&width=760&lines=Building+useful+things+with+curiosity.;用代码，把想法变成真正可用的工具。;AI+Agents+%7C+Developer+Tools+%7C+Creative+Coding" alt="Typing introduction">
+### 在星空下写代码，在项目里探索更多可能
 
-<br>
+<p>
+  <a href="https://github.com/xiaoyoumi9924?tab=followers">
+    <img src="https://img.shields.io/github/followers/xiaoyoumi9924?style=for-the-badge&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=7C8CFF" alt="关注者">
+  </a>
+  <a href="https://github.com/xiaoyoumi9924?tab=repositories">
+    <img src="https://img.shields.io/github/stars/xiaoyoumi9924?affiliations=OWNER&style=for-the-badge&logo=github&label=%E8%8E%B7%E5%BE%97%E6%98%9F%E6%A0%87&color=9B87F5" alt="获得星标">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=xiaoyoumi9924&style=for-the-badge&color=38BDF8&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE" alt="主页访问量">
+</p>
 
-# ✦ Hi, I'm Xiaoyoumi ✦
-
-**你好，欢迎来到我的代码小宇宙。**
-
-*Curious mind · Practical projects · A little bit of anime magic*
-
-[![Followers](https://img.shields.io/github/followers/xiaoyoumi9924?style=for-the-badge&logo=github&label=FOLLOWERS&color=7c8cff)](https://github.com/xiaoyoumi9924?tab=followers)
-[![Stars](https://img.shields.io/github/stars/xiaoyoumi9924?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=9b87f5)](https://github.com/xiaoyoumi9924?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=xiaoyoumi9924&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
+<sub>二次元 · 蓝紫星空 · 代码与创造</sub>
 
 </div>
 
 ---
 
-## 🌸 About Me · 关于我
+## 🌸 关于我
 
-> **把好奇心变成代码，把代码变成作品。**  
-> *Turning curiosity into code, and code into things people can use.*
+> **把好奇心变成代码，把代码变成作品。**
 
-- 🤖 Exploring **AI Agents**, automation workflows, and developer tools.
-- 💻 Building with **C++ / Python / JavaScript / Vue**.
-- 🧩 Interested in desktop applications, frontend experiences, and computer systems.
-- 🌱 Learning by building — one experiment, one project, one improvement at a time.
+- 🧩 喜欢把学习中的想法和日常需求，做成真正可以运行的软件与工具。
+- 🤖 关注 AI 智能体、自动化工作流与开发者工具。
+- 💻 常用技术：**C++、Python、JavaScript、Vue**。
+- 🌱 在实践中持续提升工程能力、系统思维与项目表达能力。
 
-## 🪄 Tech Stack · 技术工具箱
+## 🪄 技术栈
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Logisim](https://img.shields.io/badge/Logisim--evolution-7C6AE6?style=for-the-badge)
+![C++](https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/%E8%87%AA%E5%8A%A8%E5%8C%96-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/%E6%9E%84%E5%BB%BA-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Logisim](https://img.shields.io/badge/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1-Logisim--evolution-7C6AE6?style=for-the-badge)
 
 </div>
 
-## 🚀 Featured Projects · 精选作品
-
-<p align="center">
-  <sub>从 AI 工具到计算机系统，从实用应用到界面实验 · A collection of things I've been building.</sub>
-</p>
+## 🚀 精选项目
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/xiaoyoumi9924/agentforge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyoumi9924&repo=agentforge&theme=tokyonight&bg_color=0D1117&title_color=9ABEFF&text_color=C9D1D9&icon_color=C4B5FD&hide_border=true" width="100%" alt="AgentForge repository card">
-      </a>
-      <p><b>🤖 AgentForge</b><br>Windows 原生 AI 编程 Agent · Native AI coding agent</p>
+      <h3>🤖 <a href="https://github.com/xiaoyoumi9924/agentforge">AgentForge</a></h3>
+      <p>Windows 原生 AI 编程智能体，探索代码工具调用、桌面交互与智能工作流。</p>
+      <sub>技术：C++20</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/xiaoyoumi9924/handwritten-notes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyoumi9924&repo=handwritten-notes&theme=tokyonight&bg_color=0D1117&title_color=9ABEFF&text_color=C9D1D9&icon_color=C4B5FD&hide_border=true" width="100%" alt="Handwritten Notes repository card">
-      </a>
-      <p><b>✍️ Handwritten Notes</b><br>把文档转换为手写风格笔记 · Documents to handwritten-style notes</p>
+      <h3>✍️ <a href="https://github.com/xiaoyoumi9924/handwritten-notes">手写笔记工具</a></h3>
+      <p>将文字、Markdown 与 Word 文档转换为手写风格笔记，支持图片排版与个性化字体。</p>
+      <sub>技术：Python</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/xiaoyoumi9924/logisim-mips-cpu">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyoumi9924&repo=logisim-mips-cpu&theme=tokyonight&bg_color=0D1117&title_color=9ABEFF&text_color=C9D1D9&icon_color=C4B5FD&hide_border=true" width="100%" alt="Logisim MIPS CPU repository card">
-      </a>
-      <p><b>🧠 Logisim MIPS CPU</b><br>从基础电路到五级流水线 CPU · From logic circuits to a pipelined CPU</p>
+      <h3>🧠 <a href="https://github.com/xiaoyoumi9924/logisim-mips-cpu">MIPS CPU 设计</a></h3>
+      <p>从基础电路模块到单周期与五级流水线 CPU，包含数据转发和冒险处理。</p>
+      <sub>技术：Logisim-evolution</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/xiaoyoumi9924/jlu-booking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyoumi9924&repo=jlu-booking&theme=tokyonight&bg_color=0D1117&title_color=9ABEFF&text_color=C9D1D9&icon_color=C4B5FD&hide_border=true" width="100%" alt="JLU Booking repository card">
-      </a>
-      <p><b>🏸 JLU Booking</b><br>吉林大学体育场馆预约助手 · Sports venue booking assistant</p>
+      <h3>🏸 <a href="https://github.com/xiaoyoumi9924/jlu-booking">吉林大学场馆预约助手</a></h3>
+      <p>面向校园体育场馆的预约辅助工具，支持运动项目、时间偏好与任务管理。</p>
+      <sub>技术：Python</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/xiaoyoumi9924/jlu-gym-frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyoumi9924&repo=jlu-gym-frontend&theme=tokyonight&bg_color=0D1117&title_color=9ABEFF&text_color=C9D1D9&icon_color=C4B5FD&hide_border=true" width="100%" alt="JLU Gym Frontend repository card">
-      </a>
-      <p><b>📱 JLU Gym Frontend</b><br>校园体育场馆移动端界面 · Campus sports mobile UI demo</p>
+      <h3>📱 <a href="https://github.com/xiaoyoumi9924/jlu-gym-frontend">校园体育场馆移动端</a></h3>
+      <p>围绕校园体育场馆场景制作的移动端前端演示，包含页面路由与本地交互。</p>
+      <sub>技术：Vue 3、Vue Router、Vite</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/xiaoyoumi9924/douyin-fire">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyoumi9924&repo=douyin-fire&theme=tokyonight&bg_color=0D1117&title_color=9ABEFF&text_color=C9D1D9&icon_color=C4B5FD&hide_border=true" width="100%" alt="Douyin Fire repository card">
-      </a>
-      <p><b>🔥 Douyin Fire</b><br>定时消息工作流辅助工具 · Scheduled messaging helper</p>
+      <h3>🔥 <a href="https://github.com/xiaoyoumi9924/douyin-fire">抖音定时消息助手</a></h3>
+      <p>用于管理定时消息任务的辅助工具，支持消息规则、任务时间与执行记录。</p>
+      <sub>技术：Python</sub>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Stats · 开发数据
+## 📊 开发记录
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xiaoyoumi9924&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=9ABEFF&icon_color=C4B5FD&text_color=C9D1D9&hide_border=true" alt="GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyoumi9924&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=9ABEFF&text_color=C9D1D9&hide_border=true" alt="Most used languages">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=xiaoyoumi9924&theme=tokyonight&background=0D1117&ring=9ABEFF&fire=C4B5FD&currStreakLabel=9ABEFF&hide_border=true" alt="GitHub contribution streak">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoyoumi9924&bg_color=0D1117&color=C9D1D9&line=7C8CFF&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
+
+[![关注者](https://img.shields.io/github/followers/xiaoyoumi9924?style=flat-square&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=7C8CFF)](https://github.com/xiaoyoumi9924?tab=followers)
+[![项目星标](https://img.shields.io/github/stars/xiaoyoumi9924?affiliations=OWNER&style=flat-square&label=%E9%A1%B9%E7%9B%AE%E6%98%9F%E6%A0%87&color=38BDF8)](https://github.com/xiaoyoumi9924?tab=repositories)
+
 </div>
 
-## 🌱 Currently Exploring · 最近在探索
+## 🌱 正在探索
 
-- **AI Agent Engineering** — making agents more useful, reliable, and practical.
-- **C++ & Systems** — strengthening fundamentals through real projects.
-- **Python Automation** — turning repetitive workflows into small tools.
-- **Frontend Craft** — building cleaner and more intuitive interfaces.
+- AI 智能体与自动化工作流
+- C++ 桌面程序与系统基础
+- Python 工具开发与效率提升
+- Vue 前端交互与页面设计
+- 数字逻辑、计算机组成与系统知识
 
-## 🌙 A Small Note · 留给未来
+---
 
 <div align="center">
 
-### ✨ Stay curious. Keep building. Make it real.
+### ✨ 保持好奇，持续构建，让想法真正落地。
 
-**保持好奇，持续构建，让每一个想法都有机会成为现实。**
-
-<sub>Thanks for visiting my little corner of GitHub. 祝你今天也有灵感 ✦</sub>
+<sub>感谢来到我的 GitHub 小天地，欢迎交流与合作。🌸</sub>
 
 </div>
